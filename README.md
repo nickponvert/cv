@@ -4,6 +4,7 @@
 ##Selected Research Experience
 
 *Efferent control of trout lateral line neuromasts*
+
 January 2013 – pres
 
 * Wrote IACUC protocol
@@ -18,6 +19,7 @@ January 2013 – pres
 
 
 *Improving draft genomes using mate-pair data*
+
 April 2013 – pres
 
 * Wrote Biopython code to index and search large FASTA files (~6 million reads)
@@ -27,6 +29,7 @@ April 2013 – pres
 * Wrote python algorithms to improve draft genome coverage around and through areas with repetitive sequence elements using mate-pair data
 
 *Looking for SNPs in Alicyclobacillus acidocaldarius HSU9 integrase sequences*
+   
 August 2013 – December 2013
 
 * Used conserved regions of consensus HSU9 integrase sequence to pick appropriate PCR primers
@@ -41,7 +44,9 @@ August 2013 – December 2013
 ##Selected Academic Work Experience
 
 *Biology core facility technician* 
+
 January 2014 – pres
+
 Duties:
 
 * Calibrate and maintain equipment in the Biology core facility (currently responsible for the maintaince of a Dionex ICS-90 ion chromatography system)
@@ -49,3 +54,16 @@ Duties:
 * Design lab equipment and parts in Solidworks (CAD software) and fabricate using a Stratasys U-print SE plus 3D printer
 * Conduct laboratory safety inspections
 * Check out equipment to students
+
+
+##Computer Skills
+
+**Languages and Software**
+
+Python, Ipython, `vim`, `git`, Libreoffice, Microsoft Office, LaTeX, Markdown, MATLAB, CodonCode Aligner, Sequencher, `velvet`, iMAGE
+
+**Operating Systems**
+
+Linux: Ubuntu, openSUSE, Arch
+
+Windows 7/8, Mac OSX
